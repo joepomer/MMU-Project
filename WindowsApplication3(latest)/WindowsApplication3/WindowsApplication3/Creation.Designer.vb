@@ -303,6 +303,7 @@ Partial Class Creation
         Me.sdrop_rb.Name = "sdrop_rb"
         Me.sdrop_rb.Size = New System.Drawing.Size(67, 21)
         Me.sdrop_rb.TabIndex = 8
+        Me.sdrop_rb.TabStop = True
         Me.sdrop_rb.Text = "Sdrop"
         Me.sdrop_rb.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.sdrop_rb.UseVisualStyleBackColor = True
@@ -317,6 +318,7 @@ Partial Class Creation
         Me.reject_rb.Name = "reject_rb"
         Me.reject_rb.Size = New System.Drawing.Size(69, 21)
         Me.reject_rb.TabIndex = 7
+        Me.reject_rb.TabStop = True
         Me.reject_rb.Text = "Reject"
         Me.reject_rb.UseVisualStyleBackColor = True
         '
@@ -330,6 +332,7 @@ Partial Class Creation
         Me.drop_rb.Name = "drop_rb"
         Me.drop_rb.Size = New System.Drawing.Size(60, 21)
         Me.drop_rb.TabIndex = 6
+        Me.drop_rb.TabStop = True
         Me.drop_rb.Text = "Drop"
         Me.drop_rb.UseVisualStyleBackColor = True
         '
@@ -343,6 +346,7 @@ Partial Class Creation
         Me.dynamic_rb.Name = "dynamic_rb"
         Me.dynamic_rb.Size = New System.Drawing.Size(83, 21)
         Me.dynamic_rb.TabIndex = 5
+        Me.dynamic_rb.TabStop = True
         Me.dynamic_rb.Text = "Dynamic"
         Me.dynamic_rb.UseVisualStyleBackColor = True
         '
@@ -356,6 +360,7 @@ Partial Class Creation
         Me.activate_rb.Name = "activate_rb"
         Me.activate_rb.Size = New System.Drawing.Size(79, 21)
         Me.activate_rb.TabIndex = 4
+        Me.activate_rb.TabStop = True
         Me.activate_rb.Text = "Activate"
         Me.activate_rb.UseVisualStyleBackColor = True
         '
@@ -369,6 +374,7 @@ Partial Class Creation
         Me.pass_rb.Name = "pass_rb"
         Me.pass_rb.Size = New System.Drawing.Size(60, 21)
         Me.pass_rb.TabIndex = 3
+        Me.pass_rb.TabStop = True
         Me.pass_rb.Text = "Pass"
         Me.pass_rb.UseVisualStyleBackColor = True
         '
@@ -382,6 +388,7 @@ Partial Class Creation
         Me.log_rb.Name = "log_rb"
         Me.log_rb.Size = New System.Drawing.Size(53, 21)
         Me.log_rb.TabIndex = 2
+        Me.log_rb.TabStop = True
         Me.log_rb.Text = "Log"
         Me.log_rb.UseVisualStyleBackColor = True
         '
@@ -390,7 +397,6 @@ Partial Class Creation
         Me.alert_rb.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.alert_rb.AutoSize = True
-        Me.alert_rb.Checked = True
         Me.alert_rb.Location = New System.Drawing.Point(67, 44)
         Me.alert_rb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.alert_rb.Name = "alert_rb"
@@ -433,6 +439,7 @@ Partial Class Creation
         Me.ip_rb.Name = "ip_rb"
         Me.ip_rb.Size = New System.Drawing.Size(41, 21)
         Me.ip_rb.TabIndex = 9
+        Me.ip_rb.TabStop = True
         Me.ip_rb.Text = "IP"
         Me.ip_rb.UseVisualStyleBackColor = True
         '
@@ -444,6 +451,7 @@ Partial Class Creation
         Me.icmp_rb.Name = "icmp_rb"
         Me.icmp_rb.Size = New System.Drawing.Size(61, 21)
         Me.icmp_rb.TabIndex = 8
+        Me.icmp_rb.TabStop = True
         Me.icmp_rb.Text = "ICMP"
         Me.icmp_rb.UseVisualStyleBackColor = True
         '
@@ -455,13 +463,13 @@ Partial Class Creation
         Me.udp_rb.Name = "udp_rb"
         Me.udp_rb.Size = New System.Drawing.Size(58, 21)
         Me.udp_rb.TabIndex = 7
+        Me.udp_rb.TabStop = True
         Me.udp_rb.Text = "UDP"
         Me.udp_rb.UseVisualStyleBackColor = True
         '
         'tcp_rb
         '
         Me.tcp_rb.AutoSize = True
-        Me.tcp_rb.Checked = True
         Me.tcp_rb.Location = New System.Drawing.Point(76, 36)
         Me.tcp_rb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.tcp_rb.Name = "tcp_rb"
@@ -502,13 +510,13 @@ Partial Class Creation
         Me.both_rb.Name = "both_rb"
         Me.both_rb.Size = New System.Drawing.Size(45, 21)
         Me.both_rb.TabIndex = 3
+        Me.both_rb.TabStop = True
         Me.both_rb.Text = "<>"
         Me.both_rb.UseVisualStyleBackColor = True
         '
         'right_rb
         '
         Me.right_rb.AutoSize = True
-        Me.right_rb.Checked = True
         Me.right_rb.Location = New System.Drawing.Point(205, 49)
         Me.right_rb.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.right_rb.Name = "right_rb"

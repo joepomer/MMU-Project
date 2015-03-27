@@ -1,0 +1,8 @@
+log any any -> any any ()
+log TCP any any -> any any ()
+log TCP 192.168.1.102 44 <> 192.168.1.104 66 (test)
+log UDP 192.168.1.102 44 <> 192.168.1.104 66 (test)
+alert UDP 192.168.1.102 44 <> 192.168.1.104 66 (test)
+dynamic UDP 192.168.1.102 44 <> 192.168.1.104 66 (test)
+sdrop UDP 192.168.1.102 44 <> 192.168.1.104 66 (test)
+sdrop UDP 192.168.1.102 44 -> 192.168.1.104 66 (test)
