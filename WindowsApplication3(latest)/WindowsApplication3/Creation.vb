@@ -139,10 +139,19 @@ Public Class Creation
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        ListBox1.Items(ListBox1.SelectedIndex) = TextBox5.Text
+        Dim itemCount As Integer = ListBox1.Items.Count
+        If itemCount = 0 Then
+
+        Else
+            ListBox1.Items(ListBox1.SelectedIndex) = TextBox5.Text
+        End If
     End Sub
 
     Private Sub TextBox6_TextChanged(sender As Object, e As EventArgs) Handles TextBox6.TextChanged
+
+    End Sub
+
+    Private Sub TextBox5_TextChanged(sender As Object, e As EventArgs) Handles TextBox5.TextChanged
 
     End Sub
 End Class
