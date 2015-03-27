@@ -1,0 +1,14 @@
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Rule_choice.resources
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.New_rule.resources
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Edit_rule.resources
+c:\users\joe\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Creation.resources
